@@ -4,8 +4,8 @@
 
 </div>
 
-[<img src="[https://img.shields.io/badge/View_in_English-2CA5E0?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=0077FF]" />](https://t.me/me_ninezet)
-[![English Version](https://img.shields.io/badge/View_in_English-2CA5E0?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=0077FF)]((https://github.com/me-ninezet/))
+[<img src="[https://img.shields.io/badge/View_in_English-2CA5E0?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=0077FF]"/>](https://github.com/me-ninezet)
+
 
 👋 Меня зовут Матвей.
 
