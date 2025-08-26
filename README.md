@@ -39,6 +39,7 @@
 </div>
 
 **Ключевые библиотеки:**  
+
 `Aiogram` `FastAPI` `Django` `Flet` `Pystray` `PyAutoGUI` `OpenAI API`
 
 **Свяжись со мной:**  
