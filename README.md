@@ -1,15 +1,22 @@
-👋 Hi there! I'm Matvey.
+👋 Привет! Меня зовут Матвей.
 
-A student at the Transpolar State University and a passionate aspiring Python developer from the heart of the Arctic! ❄️ I love turning complex problems into elegant and functional code.
+❄️ Я студент Заполярного Государственного Университета, начинающий Python-разработчик.
 
-**What I'm up to:**
-✨ Developing smart Telegram bots with AI integration
-✨ Building backends with Django and FastAPI
-✨ Writing automation scripts and desktop applications
-✨ Exploring mobile development (Kotlin) and gamedev (C#)
-✨ Working with Neural Network APIs (OpenAI, Yandex GPT, etc.)
+⚙️ Люблю превращать сложные задачи в элегантный и функциональный код.
 
-**My tech stack & tools:**  
+**Чем я занимаюсь:**
+
+✨ Разрабатываю умных Telegram-ботов с интеграцией AI
+
+✨ Создаю бэкенд на Django и FastAPI
+
+✨ Пишу скрипты для автоматизации и desktop-приложения
+
+✨ Изучаю мобильную разработку (Kotlin) и геймдев (C#)
+
+✨ Работаю с API нейросетей (OpenAI, Yandex GPT и др.)
+
+**Мой стек и инструменты:**  
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
@@ -22,11 +29,11 @@ A student at the Transpolar State University and a passionate aspiring Python de
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
 </div>
 
-**Key libraries & APIs:**  
+**Ключевые библиотеки:**  
 `Aiogram` `FastAPI` `Django` `Flet` `Requests` `Pystray` `PyAutoGUI` `OpenAI API`
 
-**Connect with me:**  
+**Свяжись со мной:**  
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/me_ninezet)
-[<img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />](https://vk.com/me_ninezet)
 
-*Code is the poetry computers understand. 🚀*
+
+*Код — это поэзия, которую понимают компьютеры. 🚀*
