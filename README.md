@@ -39,7 +39,7 @@
 </div>
 
 **Ключевые библиотеки:**  
-`Aiogram` `FastAPI` `Django` `Flet` `Requests` `Pystray` `PyAutoGUI` `OpenAI API`
+`Aiogram` `FastAPI` `Django` `Flet` `Pystray` `PyAutoGUI` `OpenAI API`
 
 **Свяжись со мной:**  
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/me_ninezet)
