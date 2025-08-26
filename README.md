@@ -3,6 +3,7 @@
 # 👋 Добро пожаловать!
 
 </div>
+[![English Version](https://img.shields.io/badge/View_in_English-2CA5E0?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=0077FF)](#english-version)
 
 👋 Меня зовут Матвей.
 
